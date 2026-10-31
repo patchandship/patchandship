@@ -1,6 +1,6 @@
 # PatchAndShip
 
-We fix security holes in Lovable, Bolt, Replit and Cursor apps on Supabase (database rules, storage buckets, leaked keys, env vars, auth redirects) and deploy them. Within 48 hours of working access or a full refund if you ask within 14 days.
+We fix security holes in Lovable, Bolt, Replit and Cursor apps on Supabase (database rules, storage buckets, leaked keys, env vars, auth redirects) and deploy them.
 
 **App Rescue ($149):** one stuck issue in a Lovable, Bolt, Replit or Cursor app (deploy fails, login broken, errors). For apps on Supabase, Lovable Cloud or a Node backend in the repo. [App Rescue](https://patchandship.com/app-rescue?utm_source=github&utm_medium=profile&utm_campaign=new-offers)
 
